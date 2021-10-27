@@ -94,7 +94,11 @@ To contribute, do a pull request and check for any bugs and can add additional f
 
 ## **🚧Tests**
 
----
+Application installation and deployment:
+
+[Application Demo](https://watch.screencastify.com/v/iI7bmrt6TfZticK6IEAG)
+
+Application images:
 
 ## **💬Questions**
 
