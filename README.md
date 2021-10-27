@@ -96,9 +96,13 @@ To contribute, do a pull request and check for any bugs and can add additional f
 
 Application installation and deployment:
 
-[Application Demo](https://watch.screencastify.com/v/iI7bmrt6TfZticK6IEAG)
+[Demo](https://watch.screencastify.com/v/iI7bmrt6TfZticK6IEAG)
 
 Application images:
+
+![image](https://user-images.githubusercontent.com/84104912/139102077-3882725c-87e3-4854-a71a-ffb377a63c3e.png)
+
+![image](https://user-images.githubusercontent.com/84104912/139102797-2b92c4f2-547a-441f-be87-c52f5288cfc0.png)
 
 ## **💬Questions**
 
